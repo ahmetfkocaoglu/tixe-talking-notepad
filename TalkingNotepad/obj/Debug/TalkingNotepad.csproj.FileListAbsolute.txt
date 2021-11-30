@@ -1,0 +1,8 @@
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\bin\Debug\TalkingNotepad.exe
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\bin\Debug\TalkingNotepad.pdb
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\obj\Debug\TalkingNotepad.csprojAssemblyReference.cache
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\obj\Debug\TalkingNotepad.Form1.resources
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\obj\Debug\TalkingNotepad.Properties.Resources.resources
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\obj\Debug\TalkingNotepad.csproj.GenerateResource.cache
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\obj\Debug\TalkingNotepad.exe
+C:\Users\KOCAOGLU\Desktop\Ahmet (ORİJİNAL)\Program\TalkingNotepad\obj\Debug\TalkingNotepad.pdb
